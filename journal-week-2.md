@@ -10,6 +10,6 @@ Things are making much more sense today then they have been in awhile. Concepts 
 
 My hope is that as the material makes more and more sense, the coding process will become enjoyable rather than troublesome. 
 
-We learned some about core modeling allowing data to be stored on a server, tableview controllers both dynamic and static which can be extremely useful, and today we even started importing other frameworks into Xcode.
+We learned some about core modeling allowing data to be stored on a server, tableview controllers both dynamic and static which can be extremely useful, a collection view controller which is similar to a tableview but slightly different, a popover view, and we even started importing other frameworks into Xcode.
 
 There are definitely points where I am extremely confused, but overall - things are making more sense and I not only think, but feel that I am capable of becoming a software engineer.
