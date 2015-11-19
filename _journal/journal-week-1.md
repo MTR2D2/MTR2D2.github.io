@@ -1,3 +1,8 @@
+---
+layout: post
+title: TIY
+---
+
 ##The Iron Yard
 
 It's now been 2 weeks at the Iron Yard, the academy whose program is designed to take someone from zero to a hero in programming concepts in only 3 months. After 2 weeks, I'm no where near a hero - however, I can say with confidence that I know a hell of a lot more than I knew before. What sorts of things have I learned you might ask? Well... I'd love to tell you; it just may make me feel like I have some slight inclination of what is going on haha.
@@ -12,7 +17,7 @@ Xcode is a program written by Apple which provides developers (or people writtin
 
 ### Swift
 
-Being completely new to programming and diving head first into a programming language in general is like jumping into a pool without hands or feet. In order to breath you have to gradually figure out how to keep your head above the water but sometimes... you just feel like giving up because you naturally sink and you just don't know enough to be able to keep yourself afloat. This is why The Iron Yard strongly encourages the Growth vs Fixed Mindset; to show you that you **can** learn anything...depending on your mindset. I'll provide a link to that [here](https://www.youtube.com/watch?v=brpkjT9m2Oo). 
+Being completely new to programming and diving head first into a programming language in general is like jumping into a pool without hands or feet. In order to breath you have to gradually figure out how to keep your head above the water but sometimes... you just feel like giving up because you naturally sink and you just don't know enough to be able to keep yourself afloat. This is why The Iron Yard strongly encourages the Growth vs Fixed Mindset; to show you that you **can** learn anything...depending on your mindset. I'll provide a link to that [here](https://www.youtube.com/watch?v=brpkjT9m2Oo).
 
 In any case, Swift is a unique programming language specifically used to program iOS applications. You can try an introduction to Swift [here](https://teamtreehouse.com/tracks/ios-development-with-swift) and see what you think yourself.
 
