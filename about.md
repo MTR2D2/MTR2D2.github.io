@@ -9,7 +9,7 @@ permalink: /about/
 <br/>
 This is my biography.
 
-Not really though. It's just a couple of words that I wrote that don't describe my self whatsoever.
+Not really though. It's just a couple of words that I wrote that don't describe myself whatsoever.
 
 <br/>
 <hr/>
