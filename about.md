@@ -7,9 +7,7 @@ permalink: /about/
 <img class="col one right" src="/IMG_0297.JPG">
 
 <br/>
-This is my biography.
-
-Not really though. It's just a couple of words that I wrote that don't describe myself whatsoever.
+This is my picture. It's really big.
 
 <br/>
 <hr/>
