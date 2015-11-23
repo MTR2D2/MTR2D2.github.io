@@ -1,7 +1,8 @@
 The old saying that two heads is better than one is certainly the case when it comes to collaborative coding, however, there is one caveat. It would seem that the collaborative coding model, as opposed to the solitary coding, does come with a few inherent challenges. 
 
 ###Communication
-Note that to some this may not be a challege at all, but to others the end of the world. I don't mind it, I prefer working with others - especially while coding. Programming is tough enough by itself, and doing it alone is even tougher. It's nice to have someone to work through problems with, to ask questions and to contribute your knowledge and skills as part of a small team. Nonetheless, when working as a team communication becomes key and problems might arise if not done well enough. 
+
+Note that to some this may not be a challege at all, but to others the end of the world. I don't mind it, I prefer working with others - especially while coding. Programming is tough enough by itself, and doing it alone is even tougher. It's nice to have someone to work through problems with, to ask questions and to contribute your knowledge and skills as part of a small team. Nonetheless, when working as a team communication becomes key and problems might arise if not done well enough. 
 
 For example, in: 
 
@@ -23,4 +24,4 @@ While using Github or other forms of source control, you may run into these conf
 
 ###Conclusion
 
-I think, at the end of the day, there are perks to both solitary and collaborative coding. If done effectively, in my personal opinion, working together is great to learn and to collaborate on getting things done. In person is probably better for learning, whereas remote is preferred for after both parties are proficient and just need to get things done because independent coding allows a certain sense of "flow". Where I could probably improve most is staying focused and engaged while working together. 
+I think, at the end of the day, there are perks to both solitary and collaborative coding. If done effectively, in my personal opinion, working together is great to learn and to collaborate on getting things done. In person is probably better for learning, whereas remote is preferred after both parties are proficient and just need to get things done because independent coding allows a certain sense of "flow". Where I could probably improve most is staying focused and engaged while working together. 
