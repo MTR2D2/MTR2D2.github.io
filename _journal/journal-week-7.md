@@ -1,7 +1,8 @@
 The old saying that two heads is better than one is certainly the case when it comes to collaborative coding, however, there is one caveat. It would seem that the collaborative coding model, as opposed to the solitary coding, does come with a few inherent challenges. 
 
 ###Communication
-Note that to some this may not be a challege at all, but to others the end of the world. I don't mind it, I prefer working with others - especially while coding. Programming is tough enough by itself, and doing it alone is even tougher. It's nice to have someone to work through problems with, to ask questions and to contribute your knowledge and skills as part of a small team. Nonetheless, when working as a team communication becomes key and problems might arise if not done well enough. 
+
+Note that to some this may not be a challege at all, but to others the end of the world. I don't mind it, I prefer working with others - especially while coding. Programming is tough enough by itself, and doing it alone is even tougher. It's nice to have someone to work through problems with, to ask questions and to contribute your knowledge and skills as part of a small team. Nonetheless, when working as a team communication becomes key and problems might arise if not done well enough. 
 
 For example, in: 
 
@@ -13,7 +14,7 @@ Also, in:
 
 #####Writing
 
-There are two options here. The first is that one person is the driver actually coding, and the other person assists by looking on and offering ideas, knowledge and opinions. The partners can switch on and off being drivers and this model works well enough. The other option in paired-programming is remote work using source control. This one is pretty cool. Both parties can be coding simultaneously and using Github to sync their work across the server. In my opinion, there is a place for both models. Obviously, if the partners can't physically be together then the remote option is the way to go. Besides this though, I think that the driver approach is better for learning because nothing beats to minds firing off and working at something at the same time. On the other hand, if the main goal is not necessarily learning but actually writing and getting something done - the other approach of simultaneously coding makes a whole lot more sense to me. This way both partners can divy up what needs to be done and "get in the zone".
+There are two options here. The first is that one person is the driver actually coding, and the other person assists by looking on and offering ideas, knowledge and opinions. The partners can switch on and off being drivers and this model works well enough. The other option in paired-programming is remote work using source control. This one is pretty cool. Both parties can be coding simultaneously and using Github to sync their work across the server. In my opinion, there is a place for both models. Obviously, if the partners can't physically be together then the remote option is the way to go. Besides this though, I think that the driver approach is better for learning because nothing beats two minds firing off and working together at something at the same time. On the other hand, if the main goal is not necessarily learning but actually writing and getting something done - the other approach of simultaneously coding, to me, makes a whole lot more sense. This way both partners can divy up what needs to be done and "get in the zone".
 
 Another problem you may run into is:
 
@@ -23,4 +24,4 @@ While using Github or other forms of source control, you may run into these conf
 
 ###Conclusion
 
-I think, at the end of the day, there are perks to both solitary and collaborative coding. If done effectively, in my personal opinion, working together is great to learn and to collaborate on getting things done. In person is probably better for learning, whereas remote is preferred for after both parties are proficient and just need to get things done because independent coding allows a certain sense of "flow". Where I could probably improve most is staying focused and engaged while working together. 
+I think, at the end of the day, there are perks to both solitary and collaborative coding. If done effectively, in my personal opinion, working together is great to learn and to collaborate on getting things done. In person is probably better for learning, whereas remote is likely preferable after both parties are proficient and just need to get things done because independent coding allows for a certain sense of "flow". Where I could probably improve most is staying focused and engaged while working together because the mind has a tendency to drift after extended periods of time.
