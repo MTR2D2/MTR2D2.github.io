@@ -8,5 +8,6 @@ project-date: December 2015
 client: Michael Reynolds
 category: Mental Empowerment
 description: A wellness application with beautiful images, soothings sounds, and the ability to record your own powerful affirmations or listen to pre-recorded ones.
+link: <a href="https://github.com/MTR2D2/GetWell"target="_blank">View the source code on Github</a>
 
 ---

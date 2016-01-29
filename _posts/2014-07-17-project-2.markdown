@@ -8,5 +8,6 @@ project-date: November 2015
 client: Michael Reynolds
 category: Weather
 description: This mobile application, utilizes two RESTful APIs from Google Maps and DarkSky to provide the weather forecast from searched zip codes, then displays them into an editable table view controller with a detail view upon cell selection.
+link: <a href="https://github.com/MTR2D2/TIY-Assignments/tree/master/Forecaster"target="_blank">View the source code on Github</a>
 
 ---

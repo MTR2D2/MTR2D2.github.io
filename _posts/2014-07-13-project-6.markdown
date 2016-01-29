@@ -8,5 +8,6 @@ project-date: October 2015
 client: Michael Reynolds
 category: Tools
 description: A ToDo application using CoreData to store your tasks locally until completed.
+link: <a href="https://github.com/MTR2D2/TIY-Assignments/tree/master/ToDo"target="_blank">View the source code on Github</a>
 
 ---

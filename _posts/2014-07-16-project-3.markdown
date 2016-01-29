@@ -8,5 +8,6 @@ project-date: November 2015
 client: Michael Reynolds
 category: Relaxation
 description: A wide array of calming music plays for seven minutes; a swipe from the play/pause button changes the song.
+link: <a href="https://github.com/MTR2D2/PrivateProjects/tree/SimpleMoney/7Heaven"target="_blank">View the source code on Github</a>
 
 ---
