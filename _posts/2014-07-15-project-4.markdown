@@ -7,6 +7,6 @@ alt: image-alt
 project-date: October 2015
 client: Michael Reynolds
 category: Utilities
-description: A basic calculator application modeled after the iOS version with slight customizations.
+description: A standard calculator application modeled after the iOS version with slight customizations.
 
 ---
