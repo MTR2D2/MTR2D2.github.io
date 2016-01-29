@@ -2,11 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: getwell2.png
+img: weathers.png
 alt: image-alt
-project-date: December 2015
+project-date: November 2015
 client: Michael Reynolds
-category: Mental Empowerment
-description: A wellness application with beautiful images, soothings sounds, and the ability to record your own powerful affirmations or listen to pre-recorded ones.
+category: Weather
+description: This mobile application, utilizes two RESTful APIs from Google Maps and DarkSky to provide the weather forecast from searched zip codes, then displays them into an editable table view controller with a detail view upon cell selection.
 
 ---
