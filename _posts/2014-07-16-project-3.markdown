@@ -7,6 +7,6 @@ alt: image-alt
 project-date: November 2015
 client: Michael Reynolds
 category: Relaxation
-description: A wide array of calming music plays for seven minutes of pure relaxing heaven.
+description: A wide array of calming music plays for seven minutes; a swipe from the play/pause button changes the song.
 
 ---

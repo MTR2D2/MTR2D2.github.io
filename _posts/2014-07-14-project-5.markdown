@@ -7,6 +7,6 @@ alt: image-alt
 project-date: November 2015
 client: Michael Reynolds
 category: Entertainment
-description: Ever needed to know if a movie was appropriate for your child to watch? This mobile application allows you to search for a movie, then returns a "No" or "Yes" answer based upon the age range you select.
+description: Have you ever needed to know if a movie was appropriate for your child to watch? This mobile application allows you to search for a movie, then returns a "No" or "Yes" answer based upon the age range you select.
 
 ---
