@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: todo.png
+alt: image-alt
+project-date: October 2015
+client: Michael Reynolds
+category: Tools
+description: A ToDo application using CoreData to store your tasks locally until completed.
+
+---

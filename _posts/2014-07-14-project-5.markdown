@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: moviemania.png
+alt: image-alt
+project-date: November 2015
+client: Michael Reynolds
+category: Entertainment
+description: Ever need to know if a movie was appropriate for your child? This mobile app returns a "No" or "Yes" answer based upon the age range you select.
+
+---

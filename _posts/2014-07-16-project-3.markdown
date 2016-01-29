@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: 7Heaven.png
+alt: image-alt
+project-date: November 2015
+client: Michael Reynolds
+category: Relaxation
+description: A wide array of soothing music plays for seven minutes of heaven.
+
+---

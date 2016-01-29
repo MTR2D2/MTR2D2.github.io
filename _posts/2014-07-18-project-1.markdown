@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: forecaster.png
+alt: image-alt
+project-date: November 2015
+client: Michael Reynolds
+category: Weather
+description: This mobile application, written in Swift, utilizes two RESTful APIs from Google Maps and DarkSky to provide the weather forecast from zip codes of your choosing, then displays them into an editable table view controller.
+
+---

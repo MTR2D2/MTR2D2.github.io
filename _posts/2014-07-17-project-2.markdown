@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: getwell2.png
+alt: image-alt
+project-date: December 2015
+client: Michael Reynolds
+category: Mental Empowerment
+description: Wellness application with beautiful images, soothings sounds, and the ability to record your own powerful affirmations or listen to pre-recorded ones.
+
+---
