@@ -58,7 +58,7 @@ address:
   - line: Orlando, FL
 
 # Credits content
-credits: 'Page based off of the free to use, open source Bootstrap theme from <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Page based off of the free to use, open source Bootstrap theme "Freelancer" from <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

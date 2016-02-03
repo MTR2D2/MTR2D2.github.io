@@ -7,7 +7,7 @@ alt: image-alt
 project-date: December 2015
 client: Michael Reynolds
 category: Mental Empowerment
-description: A wellness application with beautiful images, soothings sounds, and the ability to record your own powerful affirmations or listen to pre-recorded ones.
+description: A wellness application with beautiful images, soothings sounds, and the ability to record your own powerful affirmations or listen to pre-recorded ones. Utillizes Parse for backend data storage and login capability. Designs, icons, and audio-recording done in house. Paired Programming with two other teammates.
 link: <a href="https://github.com/MTR2D2/GetWell"target="_blank">View the source code on Github</a>
 
 ---
